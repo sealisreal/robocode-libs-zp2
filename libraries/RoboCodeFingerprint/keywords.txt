@@ -1,0 +1,22 @@
+RoboCodeFingerprint 	KEYWORD1
+getImage		KEYWORD2
+image2Tz		KEYWORD2
+createModel		KEYWORD2
+emptyDatabase		KEYWORD2
+storeModel		KEYWORD2
+loadModel		KEYWORD2
+getModel		KEYWORD2
+deleteModel		KEYWORD2
+fingerFastSearch	KEYWORD2
+getTemplateCount	KEYWORD2
+setPassword		KEYWORD2
+writeStructuredPacket	KEYWORD2
+getStructuredPacket	KEYWORD2
+getFingerID		KEYWORD2
+writeNewFinger		KEYWORD2
+deleteFinger		KEYWORD2
+searchFinger		KEYWORD2
+
+fingerID		LITERAL1
+confidence		LITERAL1
+templateCount		LITERAL1
