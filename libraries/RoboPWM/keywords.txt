@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For RoboPWM (GyverPWM)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RoboPWM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+defaultPWM	KEYWORD2
+freqPWM		KEYWORD2
+resolPWM		KEYWORD2
+setPWM		KEYWORD2
+detachPWM	KEYWORD2
+attachPWM	KEYWORD2
+
+PWM_square_D9	KEYWORD2
+
+modePWM	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CORRECT_PWM	LITERAL1
+FAST_PWM	LITERAL1
